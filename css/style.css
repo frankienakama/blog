@@ -1,0 +1,16 @@
+.intro {
+  font-family: fantasy;
+  font-style: italic;
+  width: 50%;
+}
+
+.first {
+  font-family: cursive;
+  color: pink;
+}
+
+.second {
+  font-weight: bolder;
+  color: white;
+  background-color: purple;
+}
